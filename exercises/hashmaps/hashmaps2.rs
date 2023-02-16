@@ -7,7 +7,6 @@
 // Mango (2) and Lychee (5) are already given in the basket. You are
 // not allowed to insert any more of these fruits!
 //
-// Make me pass the tests!
 //
 // Execute `rustlings hint hashmaps2` or use the `hint` watch subcommand for a hint.
 
